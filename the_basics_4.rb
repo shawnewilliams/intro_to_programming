@@ -1,5 +1,5 @@
 # Intro to Programming
-# String exercises
+# The basics exercises
 # Exercise 4
 
 dates = [1975, 2004, 2013, 2001, 1984]

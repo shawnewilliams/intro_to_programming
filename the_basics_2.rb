@@ -1,5 +1,5 @@
 # Intro to Programming
-# String exercises
+# The Basics exercises
 # Exercise 2
 num = 6357
 thousands = num / 1000

@@ -1,5 +1,5 @@
 # Intro to Programming
-# String exercises
+# The Basics exercises
 # Exercise 3
 
 movies = {movie_1: 1975, movie_2: 2004, movie_3: 2013, movie_4: 2001, movie_5: 1984}

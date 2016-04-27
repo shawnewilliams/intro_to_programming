@@ -1,5 +1,5 @@
 # Intro to Programming
-# String exercises
+# The Basics exercises
 # Exercise 6
 
 def square(num)
